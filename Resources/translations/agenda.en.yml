@@ -27,6 +27,8 @@ event_update: 'Event modified'
 export: 'Export events'
 feb: Feb
 february: February
+filter_user: Filter by user
+filter_ws: Filer by workspace
 fri: Fri
 friday: Friday
 high: High
