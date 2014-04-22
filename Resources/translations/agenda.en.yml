@@ -51,6 +51,7 @@ next: '>'
 nextYear: '>>'
 'no event found': 'no event found'
 no_description: 'No description'
+no_task_found: No task found
 nov: Nov
 november: November
 oct: Oct
