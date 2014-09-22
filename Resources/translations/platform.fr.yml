@@ -1003,7 +1003,7 @@ workspace_unregistration_confirm_title: 'Voulez-vous vous désinscrire de cet es
 workspace_welcome: Accueil
 workspaces: 'Espaces d''activités'
 workspaces_included_in_category: 'Espaces d''activités enregistrés dans cette catégorie'
-workspaces_management: 'Gestions des espaces d''activités '
+workspaces_management: 'Gestion des espaces d''activités '
 workspaces_per_page: 'Espaces par page'
 wrong_captcha : 'Le code ne correspond pas avec l''image indiquée'
 ws_creator: 'Créateur d''espaces'
